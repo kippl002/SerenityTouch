@@ -1,0 +1,14 @@
+.flexBox {
+    display: flex;
+    justify-content:space-evenly;
+}
+.innerBox {
+   background-color: black;
+   color: white; 
+   border-color: red;
+   width: 300px;
+   padding: 20px;
+   border-width: 10px;
+   margin:10px;
+   border-style: solid;
+}

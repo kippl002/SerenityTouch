@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+    text-align: center;
+}
+
+.mainBox {
+    background-color: aquamarine;
+    color: darkblue;
+    margin: auto;
+    padding: 20px;
+    width: 200px;
+    border: solid 10px black;
+}
+
+.massage {
+    background-color: aliceblue;
+}
+
+#logo {
+    width: 20px;
+}
